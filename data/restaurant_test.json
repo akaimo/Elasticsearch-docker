@@ -1,0 +1,15 @@
+{
+  "restaurant_id": "0",
+  "name": "namae",
+  "name_alphabet": "namae",
+  "namae_kana": "namae",
+  "category": "test",
+  "address": "1-1-1",
+  "description": "testName",
+  "purpose": "testAAA",
+  "photo_count": "2",
+  "menu_count": "11",
+  "access_count": "3",
+  "closed": "false",
+  "location": [-71.34, 41.12]
+}
